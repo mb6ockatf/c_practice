@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main(){
+int main()
+{
 	int character, lines;
 	lines = 0;
 	while ((character = getchar()) != EOF)
